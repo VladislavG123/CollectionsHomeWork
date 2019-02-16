@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\CollectionsHomeWork\CollectionsHomeWork\bin\Debug\CollectionsHomeWork.exe.config
+C:\Users\Vlad\source\repos\CollectionsHomeWork\CollectionsHomeWork\bin\Debug\CollectionsHomeWork.exe
+C:\Users\Vlad\source\repos\CollectionsHomeWork\CollectionsHomeWork\bin\Debug\CollectionsHomeWork.pdb
+C:\Users\Vlad\source\repos\CollectionsHomeWork\CollectionsHomeWork\obj\Debug\CollectionsHomeWork.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\CollectionsHomeWork\CollectionsHomeWork\obj\Debug\CollectionsHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\CollectionsHomeWork\CollectionsHomeWork\obj\Debug\CollectionsHomeWork.exe
+C:\Users\Vlad\source\repos\CollectionsHomeWork\CollectionsHomeWork\obj\Debug\CollectionsHomeWork.pdb
